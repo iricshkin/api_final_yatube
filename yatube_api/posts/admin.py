@@ -25,7 +25,7 @@ class CommentAdmin(admin.ModelAdmin):
 
 
 class FollowAdmin(admin.ModelAdmin):
-    list_display = ('user', 'author')
+    list_display = ('user', 'following')
     list_filter = ('user',)
     search_fields = ('user',)
 
