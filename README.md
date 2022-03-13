@@ -56,7 +56,7 @@ python3 manage.py runserver
 
 **_Примеры обращения к API:_**
 
-- /redoc/ - Документация
+- /swagger/ - Документация
 - /jwt/create/ - Получить JWT-токен
 - /jwt/refresh/ - Обновить JWT-токен
 - /jwt/verify/ - Проверить JWT-токен
