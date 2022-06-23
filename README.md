@@ -1,4 +1,4 @@
-# api_final
+# API для социальной сети YaTube
 
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
 
